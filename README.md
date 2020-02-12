@@ -71,3 +71,15 @@ Step 15: counter = counter – 1 and go to step 17<br/>
 Step 16: If adaptive cruise control is equal to 1 then read the sensor value from ultrasonic pin.and then check whether sensor Value < 0.5 and counter > 0 then decrease counter value by one otherwise if counter < ACC speed then increase counter value by 1<br/>
 
 Step 17:print counter<br/>
+
+## RESULT
+The following results were obtained as part of the test procedures of the project: 
+1. When the system is initialized, the display system reads the value zero
+2. The Increase speed button is pressed to increase the speed to over 40 and when the button is
+released, the speed has to slow down.
+3. The Decrease speed button is pressed to decrease the speed until the speed reaches zero.
+4. The Increase speed button is pressed to increase the speed to 20 km/hr, then the Set speed button
+is pressed, and even if the Increase speed button or the Decrease speed button is pressed the speed
+changes accordingly. The Cancel button quits the cruise control mode.
+5. If the Increase speed button is pressed to increase the speed to about 30 and then the Set speed
+button is pressed to lock the speed and then press the Adaptive speed button and a model car is used to trigger the distance sensor and then that the speed will decrease. After the model car is removed, the speed increases.
