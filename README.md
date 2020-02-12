@@ -17,11 +17,16 @@ The system is designed with an arduino controller which is connected to LCD and 
 
 ## BUTTONS
 In this project we used buttons to demonstrate the project.
-Increase_speed : To increase the speed.
-Decrease_speed : To decrease the speed
-Set_speed / cruise_control : This button is used in the system to enable the cruise control mode. Increase_speed and Decrease_speed buttons can be used during this mode.
-Adaptive_speed/ Adaptive_ cruise_control : This button will enable the adaptive cruise control mode which is used to automatically sense the distance of the vehicle moving ahead and increase or decrease the speed of the vehicle with the respective distance. Increase_speed and Decrease_speed will be dysfunctional and pressing the cancel button will disable the cruise control. Display should continuously blink while adjusting the speed.
-Cancel : Pressing the button, cancels the Cruise control and resets the speed to 0.
+
+<b>Increase_speed</b> : To increase the speed.
+
+<b>Decrease_speed</b> : To decrease the speed
+
+<b>Set_speed / cruise_control</b> : This button is used in the system to enable the cruise control mode. Increase_speed and Decrease_speed buttons can be used during this mode.
+
+<b>Adaptive_speed/ Adaptive_ cruise_control</b> : This button will enable the adaptive cruise control mode which is used to automatically sense the distance of the vehicle moving ahead and increase or decrease the speed of the vehicle with the respective distance. Increase_speed and Decrease_speed will be dysfunctional and pressing the cancel button will disable the cruise control. Display should continuously blink while adjusting the speed.
+
+<b>Cancel</b> : Pressing the button, cancels the Cruise control and resets the speed to 0.
 
 ## ALGORITHM
 
