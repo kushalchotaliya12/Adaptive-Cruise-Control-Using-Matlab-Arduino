@@ -17,7 +17,7 @@ The system is designed with an arduino controller which is connected to LCD and 
 
 ## ALGORITHM
 
-Step 1: Define the variables required for the program.
+Step 1: Define the variables required for the program.<br/>
 Step 2: Initialize value to the variable like counter=0, input = 0; cruise Control = 0; adaptiveCC = 0; CCspeed = 0;ACCspeed =  0;
 Step 3: Set up a Continuous Loop until program is cancelled
 Step 4: Set up a Continuous inner Loop until button is presses and input variable is set
