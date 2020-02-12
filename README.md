@@ -13,3 +13,4 @@ The system is designed with an arduino controller which is connected to LCD and 
   - MATLAB
 
 ## CIRCUIT DESIGN
+![alt text](https://github.com/kushalchotaliya12/Adaptive-Cruise-Control-Using-Matlab-Arduino/blob/master/Circuit_Design.jpeg)
