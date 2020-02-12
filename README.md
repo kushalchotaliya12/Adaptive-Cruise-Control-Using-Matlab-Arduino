@@ -28,6 +28,14 @@ In this project we used buttons to demonstrate the project.
 
 <b>Cancel</b> : Pressing the button, cancels the Cruise control and resets the speed to 0.
 
+The respective buttons are connected to the Arduino Pins which are provided below:
+
+increase_speed - D13<br/>
+decrease_speed – A2<br/>
+cruise_control – A1<br/>
+Adaptive_ cruise_control – D9<br/>
+cancel – D11<br/>
+
 ## ALGORITHM
 
 Step 1: Define the variables required for the program.<br/>
